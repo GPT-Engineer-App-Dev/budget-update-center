@@ -56,7 +56,7 @@ const MainContent = () => (
 
 const Index = () => {
   return (
-    <Box>
+    <Box bg="#fff1e5">
       <Header />
       <MainContent />
       <Footer />
